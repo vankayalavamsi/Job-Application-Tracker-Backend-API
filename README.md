@@ -95,7 +95,7 @@ You can use either a **local MongoDB installation** or **MongoDB Atlas**.
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/vamsi-krishna-23/Job-Application-Tracker-Backend-API.git
+git clone https://github.com/vankayalavamsi/Job-Application-Tracker-Backend-API.git
 ```
 
 Then go inside the project:
@@ -704,10 +704,10 @@ If you find a bug or have an idea for improvement, feel free to create an issue.
 **Vamsi Krishna**
 
 GitHub:
-https://github.com/vamsi-krishna-23
+https://github.com/vankayalavamsi
 
 Project Repository:
-https://github.com/vamsi-krishna-23/Job-Application-Tracker-Backend-API
+https://github.com/vankayalavamsi/Job-Application-Tracker-Backend-API
 
 ---
 
